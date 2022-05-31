@@ -1,6 +1,5 @@
 package JavaUtilsFunction.Function;
 
-import java.math.BigDecimal;
 import java.util.function.BiFunction;
 import java.util.function.Function;
 
